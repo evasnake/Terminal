@@ -1,0 +1,14 @@
+ "ID": 1 ,
+"Title": "new1" ,
+"Environment": "Windows_10" ,
+"Precondition": "url" ,
+"Severity": "critical" ,
+"Priority": "medium" ,
+"STR": 1,2 ,
+"AR": ,
+"ER": ,
+"Attachments": ,
+"Author": "Evgeniya_K" ,
+"Date": "25.02.2023" ,
+"Time": "22:53"
+`
